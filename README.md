@@ -14,5 +14,5 @@ Unlike classical pseudorandom number generators (PRNGs), this program utilizes t
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/quantum-coin-flipper.git](https://github.com/YOUR-USERNAME/quantum-coin-flipper.git)
+   git clone [https://github.com/nahomnansh/quantum-coin-flipper.git](https://github.com/nahomnansh/quantum-coin-flipper.git)
    cd quantum-coin-flipper
